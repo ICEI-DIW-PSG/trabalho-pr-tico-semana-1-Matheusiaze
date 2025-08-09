@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Matheus iaze mazzoni 
+Matricula: 00900363
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print da inspeção do navegador](images/dev.jpg.jpg)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Print do projeto no Replit](images/site.jpg.jpg)
 
 
 ## Orientações sobre Linguagem MarkDown
